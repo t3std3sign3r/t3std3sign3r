@@ -2,9 +2,7 @@
 
 **Контактная информация:**
 
-- Телефон: +7 (918) 1246791 — предпочитаемый способ связи
-- Telegram: [@t3st3rr0rs](https://t.me/t3st3rr0rs)
-- Email: [tai.kharchenko@yandex.ru](mailto:tai.kharchenko@yandex.ru)
+- Telegram: [@t3st3rr0rs](https://t.me/t3st3rr0rs) — предпочитаемый способ связи
 - Проживание: Краснодар, Россия
 
 ## Желаемая должность: **QA Engineer**
